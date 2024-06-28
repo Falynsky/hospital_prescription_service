@@ -1,10 +1,10 @@
-package com.falynsky.hospital_perscription_service;
+package com.falynsky.hospital_prescription_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HospitalPerscriptionServiceApplicationTests {
+class HospitalPrescriptionServiceApplicationTests {
 
     @Test
     void contextLoads() {
